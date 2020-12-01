@@ -24,3 +24,6 @@
 [Unsupervised 3D Pose Estimation with Geometric Self-Supervision](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Unsupervised_3D_Pose_Estimation_With_Geometric_Self-Supervision_CVPR_2019_paper.pdf) -Chen, Ching-Hang, et al. "Unsupervised 3d pose estimation with geometric self-supervision." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019.
 
 [Unsupervised Geometry-Aware Representation for 3D Human Pose Estimation](https://openaccess.thecvf.com/content_ECCV_2018/papers/Helge_Rhodin_Unsupervised_Geometry-Aware_Representation_ECCV_2018_paper.pdf) -Rhodin, Helge, Mathieu Salzmann, and Pascal Fua. "Unsupervised geometry-aware representation for 3d human pose estimation." Proceedings of the European Conference on Computer Vision (ECCV). 2018.
+
+## General DNN reconstruction
+[Deformable Neural Radiance Fields](https://storage.googleapis.com/nerfies-public/videos/nerfies_paper.pdf) Park, Keunhong, et al. "Deformable Neural Radiance Fields." arXiv preprint arXiv:2011.12948 (2020).
