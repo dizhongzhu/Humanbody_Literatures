@@ -27,3 +27,7 @@
 
 ## General DNN reconstruction
 [Deformable Neural Radiance Fields](https://storage.googleapis.com/nerfies-public/videos/nerfies_paper.pdf) Park, Keunhong, et al. "Deformable Neural Radiance Fields." arXiv preprint arXiv:2011.12948 (2020).
+
+[PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization](https://openaccess.thecvf.com/content_ICCV_2019/papers/Saito_PIFu_Pixel-Aligned_Implicit_Function_for_High-Resolution_Clothed_Human_Digitization_ICCV_2019_paper.pdf) Saito, Shunsuke, et al. "Pifu: Pixel-aligned implicit function for high-resolution clothed human digitization." Proceedings of the IEEE International Conference on Computer Vision. 2019.
+
+[PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization](https://openaccess.thecvf.com/content_CVPR_2020/papers/Saito_PIFuHD_Multi-Level_Pixel-Aligned_Implicit_Function_for_High-Resolution_3D_Human_Digitization_CVPR_2020_paper.pdf) Saito, Shunsuke, et al. "PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.
