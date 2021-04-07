@@ -44,3 +44,5 @@
 [ClothCap: Seamless 4D clothing capture and retargeting](https://dl.acm.org/doi/pdf/10.1145/3072959.3073711) Pons-Moll, Gerard, et al. "ClothCap: Seamless 4D clothing capture and retargeting." ACM Transactions on Graphics (TOG) 36.4 (2017): 1-15.
 
 [Learning to dress 3d people in generative clothing](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ma_Learning_to_Dress_3D_People_in_Generative_Clothing_CVPR_2020_paper.pdf) Ma, Qianli, et al. "Learning to dress 3d people in generative clothing." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.
+
+[Tailornet: Predicting clothing in 3d as a function of human pose, shape and garment style](https://openaccess.thecvf.com/content_CVPR_2020/papers/Patel_TailorNet_Predicting_Clothing_in_3D_as_a_Function_of_Human_CVPR_2020_paper.pdf) Patel, Chaitanya, Zhouyingcheng Liao, and Gerard Pons-Moll. "Tailornet: Predicting clothing in 3d as a function of human pose, shape and garment style." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.
