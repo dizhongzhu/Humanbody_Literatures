@@ -42,3 +42,5 @@
 [Deepwrinkles: Accurate and realistic clothing modeling](https://openaccess.thecvf.com/content_ECCV_2018/papers/Zorah_Laehner_DeepWrinkles_Accurate_and_ECCV_2018_paper.pdf) Lahner, Zorah, Daniel Cremers, and Tony Tung. "Deepwrinkles: Accurate and realistic clothing modeling." Proceedings of the European Conference on Computer Vision (ECCV). 2018.
 
 [ClothCap: Seamless 4D clothing capture and retargeting](https://dl.acm.org/doi/pdf/10.1145/3072959.3073711) Pons-Moll, Gerard, et al. "ClothCap: Seamless 4D clothing capture and retargeting." ACM Transactions on Graphics (TOG) 36.4 (2017): 1-15.
+
+[Learning to dress 3d people in generative clothing](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ma_Learning_to_Dress_3D_People_in_Generative_Clothing_CVPR_2020_paper.pdf) Ma, Qianli, et al. "Learning to dress 3d people in generative clothing." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.
