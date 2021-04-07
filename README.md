@@ -31,3 +31,12 @@
 [PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization](https://openaccess.thecvf.com/content_ICCV_2019/papers/Saito_PIFu_Pixel-Aligned_Implicit_Function_for_High-Resolution_Clothed_Human_Digitization_ICCV_2019_paper.pdf) Saito, Shunsuke, et al. "Pifu: Pixel-aligned implicit function for high-resolution clothed human digitization." Proceedings of the IEEE International Conference on Computer Vision. 2019.
 
 [PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization](https://openaccess.thecvf.com/content_CVPR_2020/papers/Saito_PIFuHD_Multi-Level_Pixel-Aligned_Implicit_Function_for_High-Resolution_3D_Human_Digitization_CVPR_2020_paper.pdf) Saito, Shunsuke, et al. "PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.
+
+## Cloth with human
+[Multi-Garment Net: Learning to Dress 3D People from Images](https://arxiv.org/pdf/1908.06903.pdf) Bhatnagar, Bharat Lal, et al. "Multi-garment net: Learning to dress 3d people from images." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2019.
+
+[CLOTH3D Clothed 3D Humans](https://arxiv.org/pdf/1912.02792.pdf) Bertiche, Hugo, Meysam Madadi, and Sergio Escalera. "CLOTH3D: Clothed 3D Humans." European Conference on Computer Vision. Springer, Cham, 2020.
+
+[GAN-based Garment Generation Using Sewing Pattern Images](http://www.cs.umd.edu/~yushen/docs/ECCV2020.pdf) Shen, Yu, Junbang Liang, and Ming C. Lin. "GAN-based Garment Generation Using Sewing Pattern Images." Proceedings of the European Conference on Computer Vision (ECCV). Vol. 1. No. 2. 2020.
+
+[Deepwrinkles: Accurate and realistic clothing modeling](https://openaccess.thecvf.com/content_ECCV_2018/papers/Zorah_Laehner_DeepWrinkles_Accurate_and_ECCV_2018_paper.pdf) Lahner, Zorah, Daniel Cremers, and Tony Tung. "Deepwrinkles: Accurate and realistic clothing modeling." Proceedings of the European Conference on Computer Vision (ECCV). 2018.
