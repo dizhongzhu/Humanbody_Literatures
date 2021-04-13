@@ -1,4 +1,4 @@
-# Humanbody_Literatures
+# Humanbody Literatures
 
 ## SMPL model, pose and shape estimation
 
